@@ -8,7 +8,7 @@ language-logtalk from koryonik : https://github.com/koryonik/language-logtalk .
 
 Installation :
 Cette extension n'a aucune dépendence donc en réalité aucune installation est nécessaire. Néanmoins il faut l'ajouter dans les Packages d'Atom.
-Afin d'accèder au dossier packages d'Atom, il suffit d'aller sur Atom : allez dans Packages (barre supérieure) File -> Settings -> Install .
-
-
-![alt text](https://github.com/WasRen/CLPFD_Logtalk_Atom/master/intallPackages.png?raw=true)
+Afin d'accèder au dossier packages d'Atom, il suffit d'aller sur Atom : allez dans Packages (barre supérieure) File -> Settings -> Install (check intallPackages.png).
+Les ajouts :
+- 174 snippets pour Logtalk
+- 37 snippets CLPFD
