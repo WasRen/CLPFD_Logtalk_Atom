@@ -1,6 +1,6 @@
 {
   "name": "CLPFD_Logtalk_Atom",
-  "version": "1.0",
+  "version": "1.1.0",
   "description": "CLPFD and Logtalk support on Atom",
   "engines": {
     "atom": ">=0.50.0"
