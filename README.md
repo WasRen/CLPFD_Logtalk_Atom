@@ -13,3 +13,7 @@ Afin d'accèder au dossier packages d'Atom, il suffit d'aller sur Atom : allez d
 Les ajouts :
 - 174 snippets pour Logtalk
 - 37 snippets CLPFD
+- Snippets from  arthwang's extension on Visual Studio Code : vsc-prolog https://github.com/arthwang/vsc-prolog
+
+
+
