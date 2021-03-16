@@ -7,9 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jakehp/language-prolog"
-  },
-  "bugs": {
-    "url": "https://github.com/Jakehp/language-prolog/issues"
+    "url": "https://github.com/WasRen/CLPFD_Logtalk_Atom"
   }
 }
