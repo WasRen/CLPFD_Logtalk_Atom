@@ -10,3 +10,4 @@ Installation :
 Cette extension n'a aucune dépendence donc en réalité aucune installation est nécessaire. Néanmoins il faut l'ajouter dans les Packages d'Atom.
 Afin d'accèder au dossier packages d'Atom, il suffit d'aller sur Atom : allez dans Packages (barre supérieure) File -> Settings -> Install .
 
+![alt text](CLPFD_Logtalk_Atom/intallPackages.png)
