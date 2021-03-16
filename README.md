@@ -3,7 +3,8 @@ Atom extension support for CLPFD and Logtalk.
 
 Cette extension regroupe les deux qui peuvent être trouvées : une sur Logtalk et une sur Prolog,  qui ajoutent la “syntax highlighting”  et quelques snippets.
 
-language-prolog from Jakehp : https://github.com/Jakehp/language-prolog .
+language-prolog from Jakehp : https://github.com/Jakehp/language-prolog.
+
 language-logtalk from koryonik : https://github.com/koryonik/language-logtalk .
 
 Installation :
