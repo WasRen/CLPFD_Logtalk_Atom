@@ -7,7 +7,7 @@
   'pdb'
   'pro'
   'swi'
-  'pl'
+  'logtalk'
 ]
 'firstLineMatch': '(:-|-->)'
 'name': 'Prolog'
