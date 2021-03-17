@@ -16,4 +16,4 @@ Les ajouts :
 - Snippets from  arthwang's extension on Visual Studio Code : vsc-prolog https://github.com/arthwang/vsc-prolog
 
 
-
+Update 17/03 : Logtalk snippets sont disponibles pour les fichiers ".pl"
